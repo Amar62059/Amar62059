@@ -1,4 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Amar Prasad
+
+🚀 Full Stack Developer | Java (Spring Boot) | React.js
+
+💡 Passionate about building scalable web applications with Spring Boot backend and React.js frontend.
+🔭 Exploring Microservices, REST APIs, JWT Authentication, and Cloud Deployment (AWS/Docker).
+🌱 Currently learning DevOps tools (CI/CD with GitHub Actions).
+📫 Reach me: [amrksop@gmail.com] | [https://www.linkedin.com/in/amar-kumar-66a6a9311]
+
+
 
 <!--
 **Amar62059/Amar62059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
